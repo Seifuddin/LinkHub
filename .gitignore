@@ -1,0 +1,9 @@
+# Node.js (Frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Python (Backend)
+backend/__pycache__/
+backend/venv/
+backend/.env
